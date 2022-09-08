@@ -1,0 +1,17 @@
+.OperationRightGroup{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+    width: 70px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.OperationRightGroup_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
